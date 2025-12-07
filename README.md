@@ -1,2 +1,1 @@
-# ict_p1
-demo repository
+# ict_programs
